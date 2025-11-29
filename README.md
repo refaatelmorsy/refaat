@@ -2,10 +2,8 @@
 ### AI Trainer • Prompt Engineer • Production Engineer
 
 <div align="center">
-![Engineer in a lab with robotics and a holographic display](unnaghdgdhmed.jpg)
-![Engineer in a lab with robotics and a holographic display](unnaghdgdhmed.jpg)
-  ![Engineer in a lab with robotics and a holographic display](YOUR_IMAGE_URL_HERE)
-  ![Image](https://github.com/user-attachments/assets/fcafbbc2-e4b1-40d6-8402-40967ec6a1d9)
+![unnaghdgdhmed](https://github.com/user-attachments/assets/076268bd-5dbe-452d-819b-18e290ff1cff)
+
 <div align="center">
 
 📧 **refaatelmorsy@gmail.com** • 📞 **01023426783**  
