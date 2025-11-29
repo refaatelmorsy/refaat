@@ -40,10 +40,7 @@ Background in **Production Engineering**, skilled in **AI**, **STEM**, and **pro
 Designed a lightweight, fast **3-PRS robotic CNC system** using SolidWorks, AutoCAD, Ansys & C programming.
 
 <div align="center">
-![Engineer in a lab with robotics and a holographic display](https://i.ytimg.com/vi/nebJ59TcYlQ/hqdefault.jpg)
-
 ---
-
 ## 🛠 Skills  
 **Programming:** Python, C  
 **Tools:** VS Code, SolidWorks, AutoCAD, Ansys, ArtCAM  
