@@ -1,9 +1,7 @@
 # 🌟 Refaat Elmorsy  
 ### AI Trainer • Prompt Engineer • Production Engineer
 
-https://github.com/refaatelmorsy/refaat/blob/1b34bbcb24e02276ddf7cfb7af842241d3fb1cf5/unnaghdgdhmed.jpg?raw=true
-![Engineer in a lab with robotics and a holographic display]([YOUR_IMAGE_URL_HER](https://github.com/refaatelmorsy/refaat/blob/1b34bbcb24e02276ddf7cfb7af842241d3fb1cf5/unnaghdgdhmed.jpg?raw=true
-)E)
+![Engineer in a lab with robotics and a holographic display](https://github.com/refaatelmorsy/refaat/blob/1b34bbcb24e02276ddf7cfb7af842241d3fb1cf5/unnaghdgdhmed.jpg)
 
 <div align="center">
 ![unnaghdgdhmed](https://github.com/user-attachments/assets/076268bd-5dbe-452d-819b-18e290ff1cff)
