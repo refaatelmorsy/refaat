@@ -39,27 +39,25 @@ Background in **Production Engineering**, skilled in **AI**, **STEM**, and **pro
 ### 🦾 Parallel Robot 5-Axis Machine Tool  
 Designed a lightweight, fast **3-PRS robotic CNC system** using SolidWorks, AutoCAD, Ansys & C programming.
 
+
 <div align="center">
+  
 ---
+  
 ## 🛠 Skills  
+  
 **Programming:** Python, C  
 **Tools:** VS Code, SolidWorks, AutoCAD, Ansys, ArtCAM  
 **Soft Skills:** Problem Solving, Communication, STEM, Attention to Detail
 
----
 
-## 📊 GitHub Activity  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=refaatelmorsy&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refaatelmorsy&layout=compact&theme=tokyonight" height="150" />
-
-</div>
 
 ---
 
 ## 📄 Resume  
-📥 **[Download Resume](file:///C:/Users/Lenovo/Downloads/Refaat%20elmorsy%20(2).pdf)**  
+📥 **[Download Resume](URL=file:///C:/Users/Lenovo/Downloads/Refaat%20elmorsy%20(2).pdf)**  
+[InternetShortcut]
+
 
 
 ---
