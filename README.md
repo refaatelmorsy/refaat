@@ -41,6 +41,8 @@ Designed a lightweight, fast **3-PRS robotic CNC system** using SolidWorks, Auto
 
 <div align="center">
 ---
+
+  
 ## 🛠 Skills  
 **Programming:** Python, C  
 **Tools:** VS Code, SolidWorks, AutoCAD, Ansys, ArtCAM  
