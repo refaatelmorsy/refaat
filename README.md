@@ -2,8 +2,8 @@
 ### AI Trainer • Prompt Engineer • Production Engineer
 
 <div align="center">
+  ![Image](https://github.com/user-attachments/assets/fcafbbc2-e4b1-40d6-8402-40967ec6a1d9)
 <img src="https://raw.githubusercontent.com/techwithanirudh/Images/main/ai-banner.png" width="100%" />
-</div>
 
 <div align="center">
 
