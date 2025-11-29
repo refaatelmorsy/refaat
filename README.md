@@ -59,8 +59,8 @@ Designed a lightweight, fast **3-PRS robotic CNC system** using SolidWorks, Auto
 ---
 
 ## 📄 Resume  
-📥 **[Download Resume](./resume.pdf)**  
-(Upload your PDF as `resume.pdf`)
+📥 **[Download Resume](file:///C:/Users/Lenovo/Downloads/Refaat%20elmorsy%20(2).pdf)**  
+
 
 ---
 
