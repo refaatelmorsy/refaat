@@ -1,12 +1,14 @@
 # 🌟 Refaat Elmorsy  
-### AI Trainer • Prompt Engineer • Production Engineer
+### AI Trainer • Prompt Engineer • Mechanical Engineer
+
 
 ![Engineer in a lab with robotics and a holographic display](https://github.com/refaatelmorsy/refaat/blob/1b34bbcb24e02276ddf7cfb7af842241d3fb1cf5/unnaghdgdhmed.jpg)
 
-<div align="center">
-![unnaghdgdhmed](https://github.com/user-attachments/assets/076268bd-5dbe-452d-819b-18e290ff1cff)
 
 <div align="center">
+
+<div align="center">
+
 
 📧 **refaatelmorsy@gmail.com** • 📞 **01023426783**  
 🔗 **[LinkedIn](https://linkedin.com/in/refaatelmorsy112/)**  
@@ -38,8 +40,7 @@ Background in **Production Engineering**, skilled in **AI**, **STEM**, and **pro
 Designed a lightweight, fast **3-PRS robotic CNC system** using SolidWorks, AutoCAD, Ansys & C programming.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/techwithanirudh/Images/main/robotics-banner.png" width="80%" />
-</div>
+![Engineer in a lab with robotics and a holographic display](https://i.ytimg.com/vi/nebJ59TcYlQ/hqdefault.jpg)
 
 ---
 
